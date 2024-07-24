@@ -9,6 +9,6 @@ https://johnkim0911.github.io/matrix_animation/
 
 ## Copyright
 
-Copied from the below and changed the color from green to blue.
+Copied from below and changed the color from green to blue.
 
 https://codepen.io/MananTank/pen/rNVQKPR
